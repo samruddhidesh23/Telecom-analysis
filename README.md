@@ -8,7 +8,7 @@ Atliqo Telecom is a company that provides phone and internet services. They focu
 
 1. Live Dashboard- [Click Here](https://app.powerbi.com/view?r=eyJrIjoiYjIzOGQxMzAtZDIxYS00NmM0LTliN2ItODI5MDE1NzAzZWZiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-2. Presentation Video-[Click Here]()
+2. Presentation Video-[Click Here](https://youtu.be/J7fZEzqQiB8)
 
    
 
